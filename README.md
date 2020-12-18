@@ -35,6 +35,14 @@ npm run dev:serve
 npm run build
 ```
 
+### Code commit
+
+Git 代码提交使用 commitizen 进行规范，因此提交代码的时候请运行：
+
+```bash
+npm run commit
+```
+
 ## Tips
 
 编辑器推荐使用 Visual Studio Code。
